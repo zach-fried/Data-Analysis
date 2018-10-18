@@ -1,3 +1,5 @@
+# Basic machine learning, learning. Practice makes perfect. Siraj Raval coding challenge.
+
 from sklearn import tree, linear_model, neighbors
 
 X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], 

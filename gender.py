@@ -9,7 +9,7 @@ X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37],
 Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 
     'female','female', 'male', 'male']
 
-test_data = [[155, 67, 33]]
+test_data = [[182.88, 81.65, 25]]
 
 # Decision tree
 clf = tree.DecisionTreeClassifier()
